@@ -1,6 +1,6 @@
 <?php
-$ClientID="newgem";
-$ClientSecret="6V2MOHbd8Uc+7zpiFvm+YL64k0gC88a40rntmwvuujs=";
+$ClientID="thisIsNotTheID";
+$ClientSecret="i have removed the client secret"
 
 $ClientSecret = urlencode ($ClientSecret);
 $ClientID = urlencode($ClientID);
